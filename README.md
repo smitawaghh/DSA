@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/smitawaghh/DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/smitawaghh/DSA/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/smitawaghh/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/smitawaghh/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/smitawaghh/DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/smitawaghh/DSA/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/smitawaghh/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/smitawaghh/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/smitawaghh/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
