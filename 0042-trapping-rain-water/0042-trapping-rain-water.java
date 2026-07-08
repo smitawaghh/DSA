@@ -4,19 +4,15 @@ class Solution {
         int total=0;
         int[] prefix = new int[n];      
         prefix[0] = height[0];
+        int rightmax=height[n-1];      
         for (int i=1; i<n; i++) {
             prefix[i] = Math.max(prefix[i-1], height[i]);
+            
         }
-        int[] suffix = new int[n];      
-        suffix[n-1] = height[n-1];
-        for (int i=n-2; i>0; i--) {
-            suffix[i] = Math.max(height[i], suffix[i+1]);
-        }
-        for (int i=0; i<n; i++) {
-            int leftmax=prefix[i];
-            int rightmax=suffix[i];
-            if (height[i] < leftmax && height[i] < rightmax) {
-                total += Math.min(leftmax, rightmax) - height[i];
+        for (int i=n-1; i>=0; i--) { 
+             rightmax = Math.max(rightmax, height[i]);          
+            if (height[i] < prefix[i] && height[i] < rightmax) {
+                total += Math.min(prefix[i], rightmax) - height[i];
             }
         }
         return total; 
