@@ -1,65 +1,40 @@
 class Solution {
-
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
-
-        int[] pse = findPSE(heights);
-        int[] nse = findNSE(heights);
-
-        int maxArea = 0;
-
-        for (int i = 0; i < n; i++) {
-            int width = nse[i] - pse[i] - 1;
-            int area = heights[i] * width;
-            maxArea = Math.max(maxArea, area);
-        }
-
-        return maxArea;
-    }
-
-    public int[] findPSE(int[] heights) {
-        int n = heights.length;
-        int[] pse = new int[n];
+        int nse, pse;
+        int maxarea=0;
         Stack<Integer> st = new Stack<>();
-
-        for (int i = 0; i < n; i++) {
-
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
+        for (int i=0; i<n; i++) {
+            while (!st.isEmpty() && heights[i] < heights[st.peek()]) {
+                int element = st.peek();
                 st.pop();
+                
+                nse = i;
+                if (st.isEmpty()) {
+                   pse=-1;
+                }
+                else {
+                   pse = st.peek();
+                }
+                maxarea = Math.max(maxarea, (nse-pse-1)*heights[element]);
             }
-
-            if (st.isEmpty()) {
-                pse[i] = -1;
-            } else {
-                pse[i] = st.peek();
-            }
-
             st.push(i);
         }
-
-        return pse;
-    }
-
-    public int[] findNSE(int[] heights) {
-        int n = heights.length;
-        int[] nse = new int[n];
-        Stack<Integer> st = new Stack<>();
-
-        for (int i = n - 1; i >= 0; i--) {
-
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
+            while (!st.isEmpty()) {
+                nse = n;
+                int element = st.peek();
                 st.pop();
+                if (st.isEmpty()) {
+                    pse = -1;
+
+                }
+                else {
+                    pse = st.peek();
+
+                }
+                maxarea = Math.max(maxarea, heights[element]*(nse-pse-1));
             }
-
-            if (st.isEmpty()) {
-                nse[i] = n;
-            } else {
-                nse[i] = st.peek();
-            }
-
-            st.push(i);
-        }
-
-        return nse;
+        
+        return maxarea;
     }
 }
