@@ -4,6 +4,7 @@ class Solution {
         
         int firstn = first(nums,target, n);
         int lastn = last(nums, target, n);
+        if (firstn == -1) return new int[]{-1, -1};
        
         return new int[]{firstn, lastn};
 
