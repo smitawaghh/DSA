@@ -1,49 +1,52 @@
 class Solution {
-
-   
-    
     public int[] searchRange(int[] nums, int target) {
-         int n = nums.length;
-        int lowb= lb(nums, n, target);
-        if (lowb == n || nums[lowb] != target ) {
-            return new int[]{-1, -1};
-        }
+        int n = nums.length;
         
-        return new int[]{lowb, ub(nums, n, target) -1};
+        int firstn = first(nums,target, n);
+        int lastn = last(nums, target, n);
+       
+        return new int[]{firstn, lastn};
+
         
     }
-    int lb(int[] nums, int n, int target) {
-        int low =0;
-    int high = n-1;
-         
-        int ans=n;
-        while (low <= high) {
+    int first(int[] nums, int target, int n) {
+        int low= 0;
+        int high=n-1;
+        int first = -1;
+        while (low<=high) {
             int mid = (low+high)/2;
-            if (nums[mid]>=target) {
-                ans = mid;
+            if (nums[mid] == target) {
+                first = mid;
                 high = mid-1;
+            }
+            else if (nums[mid] > target) {
+                high = mid-1;
+
             }
             else {
                 low = mid+1;
             }
         }
-        return ans;
+        return first;
     }
-        int ub(int[] nums, int n, int target) {
-            int low =0;
-    int high = n-1;
-           
-        int ans=n;
-        while (low <= high) {
+        int last(int[] nums, int target, int n) {
+            int last =-1;
+        int low= 0;
+        int high=n-1;
+        while (low<=high) {
             int mid = (low+high)/2;
-            if (nums[mid]>target) {
-                ans = mid;
-                high = mid-1;
+            if (nums[mid] == target) {
+                 last = mid;
+                low = mid+1;
+            }
+            else if (nums[mid] > target) {
+                high = mid-1;;
+
             }
             else {
                 low = mid+1;
             }
         }
-        return ans;
+        return last;
     }
 }
