@@ -6,10 +6,7 @@ class Solution {
         int mini = Integer.MAX_VALUE;
         while (low<=high) {
             int mid = (low+high)/2;
-            if (nums[low] <= nums[high]) {
-                mini = Math.min(nums[low], mini);
-                break;
-            }
+            
            
             if (nums[low] <= nums[mid]) {
                 mini = Math.min(mini, nums[low]);
