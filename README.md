@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/smitawaghh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/smitawaghh/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/smitawaghh/DSA/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/smitawaghh/DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/smitawaghh/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
@@ -96,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/smitawaghh/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/smitawaghh/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/smitawaghh/DSA/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
