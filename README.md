@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/smitawaghh/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/smitawaghh/DSA/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/smitawaghh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/smitawaghh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/smitawaghh/DSA/tree/master/0496-next-greater-element-i) |
@@ -96,8 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/smitawaghh/DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/smitawaghh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/smitawaghh/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/smitawaghh/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/smitawaghh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/smitawaghh/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
