@@ -23,7 +23,7 @@ class Solution {
                 }
 
             }
-            return ans;
+            return low;
         }
 
         long solveh(int[] piles, int hourly) {
