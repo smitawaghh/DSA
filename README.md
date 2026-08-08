@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/smitawaghh/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/smitawaghh/DSA/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/smitawaghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/smitawaghh/DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/smitawaghh/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0509-fibonacci-number](https://github.com/smitawaghh/DSA/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/smitawaghh/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/smitawaghh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/smitawaghh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/smitawaghh/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/smitawaghh/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/smitawaghh/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
