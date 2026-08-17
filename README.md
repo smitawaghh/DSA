@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/smitawaghh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/smitawaghh/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/smitawaghh/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/smitawaghh/DSA/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/smitawaghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/smitawaghh/DSA/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/smitawaghh/DSA/tree/master/0567-permutation-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/smitawaghh/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/smitawaghh/DSA/tree/master/0049-group-anagrams) |
+| [0567-permutation-in-string](https://github.com/smitawaghh/DSA/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/smitawaghh/DSA/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/smitawaghh/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
