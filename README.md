@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/smitawaghh/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/smitawaghh/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/smitawaghh/DSA/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/smitawaghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/smitawaghh/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/smitawaghh/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/smitawaghh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/smitawaghh/DSA/tree/master/0198-house-robber) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/smitawaghh/DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/smitawaghh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/smitawaghh/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -200,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/smitawaghh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/smitawaghh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/smitawaghh/DSA/tree/master/0226-invert-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
