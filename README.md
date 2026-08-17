@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/smitawaghh/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/smitawaghh/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/smitawaghh/DSA/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/smitawaghh/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/smitawaghh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/smitawaghh/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/smitawaghh/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/smitawaghh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/smitawaghh/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/smitawaghh/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/smitawaghh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/smitawaghh/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/smitawaghh/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/smitawaghh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/smitawaghh/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/smitawaghh/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/smitawaghh/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/smitawaghh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/smitawaghh/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/smitawaghh/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/smitawaghh/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
@@ -211,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/smitawaghh/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
