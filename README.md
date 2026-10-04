@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/smitawaghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/smitawaghh/DSA/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/smitawaghh/DSA/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/smitawaghh/DSA/tree/master/0567-permutation-in-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/smitawaghh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/smitawaghh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/smitawaghh/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/smitawaghh/DSA/tree/master/0198-house-robber) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/smitawaghh/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/smitawaghh/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/smitawaghh/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/smitawaghh/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/smitawaghh/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/smitawaghh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/smitawaghh/DSA/tree/master/0217-contains-duplicate) |
